@@ -2,7 +2,7 @@ class bubblesort
 {
     public static void main(String[] args)
     {
-        int arr[]={9,8,7,6,5,4};
+        int arr[]={9,56,89,56,90,23,6,5,4};
         int sorted=0;
         for(int i=0;i<arr.length-1;i++)
         {
