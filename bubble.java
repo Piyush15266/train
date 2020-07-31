@@ -16,6 +16,8 @@ class bubble
             }
             sorted++;
         }
+        System.out.println("the sorted arrays is=");o
+
         for(int i:arr)
         {
             System.out.println(i);
